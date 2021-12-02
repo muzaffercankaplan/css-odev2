@@ -1,0 +1,51 @@
+body {
+    text-align: center;
+    margin-top: 150px;
+    width: 100%;
+}
+
+#search {
+    background-color: rgb(231, 227, 227);
+}
+#search h3 {
+    margin-bottom: 0;
+}
+
+section #search input {
+    width: 300px;
+    border-radius: 2px;
+    margin-top: 0;
+}
+main {
+    
+    margin-top: 2px;
+    max-width: 100%;
+    
+}
+
+main article{
+    display: inline-block;
+    float: left;
+    
+   
+}
+.sctn1 { 
+    width: 548px;
+    height: 85px; 
+    background-color: aqua;
+   
+}
+.sctn2 {
+    width: 370px;
+    height: 85px;
+    background-color: aqua;
+    margin: 0 2px;
+}
+.sctn3 {
+    width: 600px;
+    height: 85px;
+    background-color: aqua;
+}
+h4{
+    margin: 0;
+}
